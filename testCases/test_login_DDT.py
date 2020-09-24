@@ -4,7 +4,7 @@ from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig
 from utilities.customLogger import LogGen
 
-class Test_Login:
+class Test_002_DDT_Login:
 
     baseURL= ReadConfig.getApplicationURl()
     username = ReadConfig.getUseremail()
@@ -12,7 +12,6 @@ class Test_Login:
 
     logger=LogGen.loggen()
 
-    @pytest.mark.regression
     def test_homePageTitle(self,setupBrowserDriver):
 
 
@@ -32,14 +31,11 @@ class Test_Login:
             self.logger.error(" ************************** this test case 1 is fail ************************ ")
             assert False
 
-    @pytest.mark.regression
-    @pytest.mark.sanity
-    def test_loginPage_Title(self, setupBrowserDriver):
+    def test_login(self, setupBrowserDriver):
 
         self.logger.info(" ************************** this test case 2 ************************ ")
         self.driver = setupBrowserDriver
         self.driver.get(self.baseURL)
-
         self.lp=LoginPage(self.driver)
         self.lp.setUserName(self.username)
         self.lp.setPassword(self.password)
