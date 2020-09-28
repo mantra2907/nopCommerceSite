@@ -26,3 +26,95 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1601287434488	geckodriver	INFO	Listening on 127.0.0.1:52781
+1601287437527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saurs\\AppData\\Local\\Temp\\rust_mozprofilefAp7Yu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601287450040	Marionette	INFO	Listening on port 52792
+1601287450364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601287466171	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:77295
+s.ajax@https://admin-demo.nopcommerce.com/lib/jquery-migrate/jquery-migrate-3.1.0.min.js:2:3154
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:56:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:90:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:72:30
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:148:46
+e@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29453
+l/</t<@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29755
+1601287750096	Marionette	INFO	Stopped listening on port 52792
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofilewow8Ho"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601287477624	Marionette	INFO	Listening on port 52854
+1601287478090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601287712503	Marionette	INFO	Stopped listening on port 52854
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Temp\\rust_mozprofileFnouuQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601287500317	Marionette	INFO	Listening on port 52912
+1601287500565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601287511781	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601287513290	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1601287515220	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+send@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:77295
+s.ajax@https://admin-demo.nopcommerce.com/lib/jquery-migrate/jquery-migrate-3.1.0.min.js:2:3154
+init@https://admin-demo.nopcommerce.com/js/admin.navigation.js:56:11
+initOnce@https://admin-demo.nopcommerce.com/js/admin.navigation.js:90:17
+init@https://admin-demo.nopcommerce.com/js/admin.search.js:72:30
+@https://admin-demo.nopcommerce.com/Admin/Customer/List:148:46
+e@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29453
+l/</t<@https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js:2:29755
+1601287515476	Marionette	INFO	Stopped listening on port 52912
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601287520899	geckodriver	INFO	Listening on 127.0.0.1:52965
+1601287523892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\saurs\\AppData\\Local\\Temp\\rust_mozprofileA745fl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1601287531268	Marionette	INFO	Listening on port 52975
+1601287531366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1601287540669	Marionette	INFO	Stopped listening on port 52975
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
